@@ -16,5 +16,8 @@
 "dir"
 "mkdir"
 "cd"
+"git merge branch"
+"git log --graph --decorate --oneline"
+
 
 
