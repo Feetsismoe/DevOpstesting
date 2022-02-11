@@ -1,5 +1,6 @@
 "This is FileC"
 "git Checkout xxxcommitnumber"
+"git Checkout xxbranch"
 "git Status"
 "git diff"
 "git log"
@@ -16,8 +17,13 @@
 "dir"
 "mkdir"
 "cd"
-"git merge branch"
+"git merge xxxbranchxxx"
+"git merge --squash xxxbranchxxx"
 "git log --graph --decorate --oneline"
+"xxx.txt >> .gitignore"
+"more .gitignore"
+"DevOpstest"
+
 
 
 
